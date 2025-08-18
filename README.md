@@ -84,7 +84,7 @@ We generated a heatmap to visualize the correlation between numerical features a
 ## Modeling
 
 
-* Split first data set into train and test set using scikit-learn train_test_split() method
+* Splited data set into train and test set using scikit-learn train_test_split() method
 * Trained 7 types of models based on different regression algorithms.
   * LinearRegression
   * Ridge Regression
