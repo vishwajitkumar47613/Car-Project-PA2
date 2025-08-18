@@ -1,5 +1,7 @@
 # Assignment 11.1 - What Drives the Price of a Car?
 
+![Link to notebook](https://github.com/vishwajitkumar47613/Car-Project-PA2/blob/main/CarValueProjectPA2.ipynb) 
+
 ## Business Understanding
 In this application, we are exploring the used car value dataset from Kaggle.The provided dataset contains information on 426K cars to ensure speed of processing. Our goal is to understand what factors make a car more or less expensive. As a result of our analysis, we should be able to provide recommendations to our client -- a used-car dealerships -- as to how to market the used cars.
 
